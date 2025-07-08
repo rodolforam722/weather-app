@@ -1,0 +1,33 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 400px;
+  margin: 32px auto;
+  text-align: center;
+}
+
+input {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid black;
+}
+
+button {
+  padding: 8px;
+  font-size: 16px;
+  border-radius: 4px;
+  border: 1px solid blue;
+  background-color: blue;
+  color: white;
+}
+
+#weather-result {
+  margin-top: 24px;
+}
